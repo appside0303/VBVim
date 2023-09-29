@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\bin\Debug\Vim.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\bin\Debug\Vim.exe
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\bin\Debug\Vim.pdb
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\bin\Debug\Vim.xml
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\obj\Debug\Vim.Main.resources
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\obj\Debug\Vim.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\obj\Debug\Vim.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\obj\Debug\Vim.exe
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\obj\Debug\Vim.xml
+c:\users\user\documents\visual studio 2013\Projects\Vim\Vim\obj\Debug\Vim.pdb
